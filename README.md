@@ -1,4 +1,4 @@
-# Hi, I'm Omar 👋
+# Hi, I'm Omar 
 
 Cloud & Cybersecurity engineering student at **ESPRIT** (Tunisia).
 I build hands-on projects around **Azure DevOps / CI-CD** and **SOC / detection engineering**.
